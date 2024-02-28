@@ -1,2 +1,2 @@
 # ResumeBuilder
-https://shodhan07.github.io/ResumeBuilder/
+https://poornachandrapc7.github.io/Resume-Builder/
