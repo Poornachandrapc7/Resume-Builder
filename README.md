@@ -1,2 +1,2 @@
-# Resume-Builder
-About my Resume builder website
+# ResumeBuilder
+https://shodhan07.github.io/ResumeBuilder/
